@@ -1,1 +1,4 @@
 *.pkl
+*.zip
+.virtual_documents
+*.png
